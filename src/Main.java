@@ -35,7 +35,7 @@ public class Main {
     public static void main(String[] args) {
 
         //HashTable.test2();
-        //JavaCollectionTest.linkedlistTest();
+        JavaCollectionTest.linkedlistTest();
         JavaCollectionTest.arrayOfListTest();
         // Graph graph = new Graph(32); 
         // for (int i=0; i<16; i++)
